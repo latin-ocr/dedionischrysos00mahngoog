@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedionischrysos00mahngoog_0006.png"; bbox 0 0 3216 5044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 484 551 749 748">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 484 551 825 748">
+     <span class='ocr_line' id='line_1_1' title="bbox 484 551 749 748; baseline 0.003 -64"><span class='ocrx_word' id='word_1_1' title='bbox 484 551 749 748; x_wconf 43' lang='lat' dir='ltr'>“DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 937 1554 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 937 1607 1288">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 937 1554 1284; baseline 0.013 -90"><span class='ocrx_word' id='word_1_2' title='bbox 131 1039 490 1284; x_wconf 67' lang='lat' dir='ltr'>nmms</span> <span class='ocrx_word' id='word_1_3' title='bbox 567 1037 1243 1207; x_wconf 63' lang='lat' dir='ltr'><strong>cHRYsoswoffl</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1322 937 1324 942; x_wconf 56' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1545 1113 1554 1122; x_wconf 14' lang='grc' dir='ltr'><em>μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 287 1530 949 1658">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 287 1448 949 1690">
+     <span class='ocr_line' id='line_1_3' title="bbox 287 1530 949 1658; baseline 0.003 -23"><span class='ocrx_word' id='word_1_6' title='bbox 287 1649 289 1658; x_wconf 15' lang='lat' dir='ltr'><strong><em>J</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 445 1530 949 1640; x_wconf 69' lang='lat' dir='ltr'>comcfflms</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 338 2098 1068 2211">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 338 2041 1068 2211">
+     <span class='ocr_line' id='line_1_4' title="bbox 338 2098 1068 2211; baseline 0.004 -19"><span class='ocrx_word' id='word_1_8' title='bbox 338 2098 672 2194; x_wconf 69' lang='lat' dir='ltr'>DlssssRTfflo</span> <span class='ocrx_word' id='word_1_9' title='bbox 700 2099 1068 2211; x_wconf 68' lang='lat' dir='ltr'>INAUGURAL18‚‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 502 3003 896 3074">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 502 3003 896 3074">
+     <span class='ocr_line' id='line_1_5' title="bbox 502 3003 896 3074; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 502 3003 671 3074; x_wconf 75' lang='lat' dir='ltr'><strong>ARNo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 707 3003 896 3074; x_wconf 77' lang='lat' dir='ltr'><strong>MAHN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1612 5044">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1612 5044">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1612 5044; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1612 5044; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
